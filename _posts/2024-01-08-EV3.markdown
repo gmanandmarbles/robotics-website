@@ -9,3 +9,5 @@ categories:
 
 Here is some photos from our EV3 robots.
 
+![Our lego EV3 robot without any extra special attachments.](/assets/images/EV3.webp)
+This was made by two of the team members, just a simple base robot.
