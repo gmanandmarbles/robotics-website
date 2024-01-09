@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Tank"
+date:   2024-01-08 19:45:06 -0500
+categories: 
+---
+# 3D printed tank.
+
+This is a tank robot, made by one of our team members. Which had a few issues...
+
+![Our super broken robot, it needs fixing.](/assets/videos/Robotwithoutwheel.mov)
+It might need some minor adjustments.
