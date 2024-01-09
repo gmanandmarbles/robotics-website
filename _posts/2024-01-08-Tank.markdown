@@ -8,5 +8,6 @@ categories:
 
 This is a tank robot, made by one of our team members. Which had a few issues...
 
-![Our super broken robot, it needs fixing.](/assets/videos/Robotwithoutwheel.mov)
+
+<video src="/assets/videos/Robotwithoutwheel.mov" width="320" height="240" controls></video>
 It might need some minor adjustments.
