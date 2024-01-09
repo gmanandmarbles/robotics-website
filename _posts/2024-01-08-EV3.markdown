@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "EV3"
+date:   2024-01-08 19:45:06 -0500
+categories: 
+---
+# Lego EV3
+
+
+Here is some photos from our EV3 robots.
+
