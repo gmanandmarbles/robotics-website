@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Robot Control App"
+date:   2024-01-09 19:45:06 -0500
+categories: jekyll update
+---
 # FRC Resources
 
 Here is a compilation of resources that our team found useful to get started with this competition.
