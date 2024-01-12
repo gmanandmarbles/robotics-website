@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Robot Control App"
-date:   2024-01-09 19:45:06 -0500
+title:  "Resources"
+date:   2024-01-12 19:45:06 -0500
 categories: jekyll update
 ---
 # FRC Resources
